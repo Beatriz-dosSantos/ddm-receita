@@ -30,13 +30,3 @@
 2. Toque em uma receita para ver detalhes
 3. Use o ❤️ para favoritar
 4. Digite na busca para filtrar
-
-## Estrutura Básica
-
-```
-pasta-do-app/
-├── app/          # Telas do app
-├── assets/       # Imagens
-├── components/   # Peças reutilizáveis
-└── package.json  # Lista de programas usados
-```
