@@ -31,8 +31,6 @@
 3. Use o ❤️ para favoritar
 4. Digite na busca para filtrar
 
-```
-
 ## Estrutura Básica
 
 ```
